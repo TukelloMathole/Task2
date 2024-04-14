@@ -35,7 +35,6 @@ dotnet run
 ## File Structure
 
 - `Program.cs`: Contains the main logic of the application.
-- `Employee.cs`: Defines the `Employee` class used to represent employee data.
 - `Employee.csv`: Sample CSV file containing employee data.
 
 ## Dependencies
